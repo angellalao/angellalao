@@ -13,9 +13,3 @@ I am a Software Engineering Student at Holberton School Australia | Switching ca
 ![](https://github-readme-stats.vercel.app/api?username=angellalao&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=angellalao&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=angellalao&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/angellalao/holbertonschool-higher_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=angellalao&repo=holbertonschool-higher_level_programming&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/angellalao/holbertonschool-simple_shell" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=angellalao&repo=holbertonschool-simple_shell&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/angellalao/holbertonschool-printf" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=angellalao&repo=holbertonschool-printf&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en" /></a></div>
