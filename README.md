@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌍  I'm based in Melbourne, AUS<br>🚀  I'm currently working on AirBnB project<br>🌱  I’m currently learning SQL<br>💬  Ask me about House Renovations<br>⚡  Fun fact: I can solve a Rubik's cube in less than a minute
+🌍  I'm based in Melbourne, AUS<br>🚀  I'm currently working on AirBnB clone<br>🌱  I’m currently learning SQL<br>💬  Ask me about House Renovations<br>⚡  Fun fact: I can solve a Rubik's cube in less than a minute
 
 
 ## 🌐 Socials:
