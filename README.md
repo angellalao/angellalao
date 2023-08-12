@@ -1,5 +1,4 @@
 # 💫 About Me:
-I am a Software Engineering Student at Holberton School Australia | Switching careers to tech while working full-time as a Cardiac Sonographer.
 
 🌍  I'm based in Melbourne, AUS<br>🚀  I'm currently working on AirBnB project<br>🌱  I’m currently learning SQL<br>💬  Ask me about House Renovations<br>⚡  Fun fact: I can solve a Rubik's cube in less than a minute
 
